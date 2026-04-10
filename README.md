@@ -18,9 +18,8 @@
 
 ### 👨‍❤️‍💋‍👨ABOUT ME:
 
-- 🍭 I am 19;
-- 🎵 I am Russiano;
-- 🕶️ Love boops
+- 🍭 I am 20;
+- 🎵 I am Russian;
 
 ### 🕳️ Programming languages and tools that I used:
 
