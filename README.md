@@ -1,49 +1,62 @@
-<div id = "badges" align = "center">
-  <a href = "https://vk.com/bblls">
-    <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt = "VK Badge"/>
-  </a>
+<h1 align="center">Hi, I'm Fedor 👋</h1>
 
-  <a href = "https://www.instagram.com/crackedchrist/">
-    <img src = "https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt = "INST Badge"/>
-  </a>
-</div>
+<p align="center">
+  💻 Backend Developer (Flask) <br>
+  🎓 Student (Information Systems & Programming) <br>
+</p>
 
-<div id = "viewprof" align = "center">
-  <img src = "https://komarev.com/ghpvc/?username=bbls&style=flat-square&color=blue" alt = ""/>
-</div>
+---
 
-<div id = "heythere" align = "center">
-  <h1> GitHub profile </h1>
-</div>
+## 🧠 About me
 
-### 👨‍❤️‍💋‍👨ABOUT ME:
+- 🎯 Building a **HelpDesk system (Flask + PostgreSQL)**
+- ⚙️ Interested in backend development & system design
+- 🌍 Based in Europe
+- 🧩 Learning by building real projects
 
-- 🍭 I am 20;
-- 🎵 I am Russian;
+---
 
-### 🕳️ Programming languages and tools that I used:
+## 🚀 My main project
 
-<div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width = "40" height = "40"/>
-</div>
+### 🛠 HelpDesk System
 
-### 🏆 Achievements:
+A full-featured ticket management system:
 
-<div>
-  <img src = "https://github-profile-trophy.vercel.app/?username=st4rblS" alt = ""/>
-</div>
+- CRUD tickets
+- Archive (soft delete / permanent delete)
+- User profiles (avatar, stats)
+- Status tracking & history
+- Priority & categories
+- Export (Excel / PDF)
+- Dark / Light theme
 
-### 💩: Most using langs:
+👉 Repo: https://github.com/ТВОЙ_НИК/helpdesk
 
-<div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=st4rblS" alt = ""/>
-</div>
+---
 
-### 📊 Activity stats:
+## ⚙️ Tech stack
 
-<div>
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=st4rblS&theme=dracula" alt = ""/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,postgresql,html,css,js,bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Telegram: @ТВОЙ_ЮЗЕР
+- Email: your@email.com
+
+---
+
+<p align="center">
+  ⚡ Building projects > watching tutorials
+</p>
