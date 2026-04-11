@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Fedor 👋</h1>
+<h1 align="center">Hi, I'm Fedor</h1>
 
 <p align="center">
-  💻 Backend Developer (Flask) <br>
+  💻 Flask Developer (made a diploma work using Flask) <br>
   🎓 Student (Information Systems & Programming) <br>
 </p>
 
@@ -30,7 +30,7 @@ A full-featured ticket management system:
 - Export (Excel / PDF)
 - Dark / Light theme
 
-👉 Repo: https://github.com/ТВОЙ_НИК/helpdesk
+👉 Repo: https://github.com/st4rblS/helpdesk
 
 ---
 
@@ -45,15 +45,15 @@ A full-featured ticket management system:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=st4rblS&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Telegram: @ТВОЙ_ЮЗЕР
-- Email: your@email.com
+- Telegram: @bblsHere
+- Email: bbls.deal@gmail.com
 
 ---
 
